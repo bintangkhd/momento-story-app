@@ -1,0 +1,27 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/StoryAppSubmission/app/src/main/res/drawable-v23/bg_splash_screen.xml" value="0.3595" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/StoryAppSubmission/app/src/main/res/drawable/bg_button.xml" value="0.3595" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/StoryAppSubmission/app/src/main/res/drawable/bg_button_disable.xml" value="0.3595" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/StoryAppSubmission/app/src/main/res/drawable/bg_list_stories.xml" value="0.3395" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/StoryAppSubmission/app/src/main/res/drawable/bg_splash_screen.xml" value="0.3595" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/StoryAppSubmission/app/src/main/res/layout/activity_custom_pop_up_alert.xml" value="0.22631578947368422" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/StoryAppSubmission/app/src/main/res/layout/activity_login.xml" value="0.18" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/StoryAppSubmission/app/src/main/res/layout/activity_main.xml" value="0.16472868217054262" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/StoryAppSubmission/app/src/main/res/layout/activity_map.xml" value="0.22631578947368422" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/StoryAppSubmission/app/src/main/res/layout/activity_register.xml" value="0.22631578947368422" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/StoryAppSubmission/app/src/main/res/layout/activity_splash_screen.xml" value="0.22631578947368422" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/StoryAppSubmission/app/src/main/res/layout/activity_story_detail.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/StoryAppSubmission/app/src/main/res/layout/item_row_story.xml" value="0.22631578947368422" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="zulu-1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

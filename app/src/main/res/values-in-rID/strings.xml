@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Momento</string>
+    <string name="app_logo">Logo Aplikasi</string>
+    <string name="app_tagline">Abadikan dan bagikan momen indahmu!</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="register_tagline">Registrasi akunmu dan jadilah bagian dari Super Momento Squad!</string>
+    <string name="register_success">Registrasi akun berhasil.\nSilakan login!</string>
+    <string name="register_error">Email telah digunakan.\nSilakan pilih email yang lain!</string>
+    <string name="register_error_validation">Pastikan semua inputan telah benar!</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="email_error">Masukkan format email dengan benar</string>
+    <string name="password_error">Password harus terdari dari setidaknya 8 karakter</string>
+    <string name="wrong_email_password">Pastikan email atau password telah benar!</string>
+    <string name="user_name">Nama User</string>
+    <string name="story">C E R I T A</string>
+    <string name="story_description">Descrition Cerita</string>
+    <string name="posting_date">Tanggal Posting</string>
+    <string name="already_have_account">Sudah memiliki akun?<font color="#0FA958"> Login.</font></string>
+    <string name="do_not_have_account">Belum memiliki akun?<font color="#0FA958"> Register.</font></string>
+    <string name="error_message">Terjadi masalah.\nSilakan coba lagi nanti.</string>
+    <string name="hello">Hai,</string>
+    <string name="close"><font color="#0FA958">TUTUP</font></string>
+    <string name="language">Bahasa</string>
+    <string name="settings">Pengaturan</string>
+    <string name="date_template">17/Agu/194</string>
+    <string name="on_date">pada %1$s</string>
+    <string name="description_template">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et tortor diam. Duis et rhoncus ex, non rhoncus libero. Sed vulputate placerat consequat. Vestibulum ornare lacinia eleifend.</string>
+    <string name="posted_by">Diposting oleh <font color="#0FA958">%1$s</font></string>
+    <string name="caption">Caption</string>
+    <string name="posting">Posting</string>
+    <string name="permission_denied_alert">Kamu harus memberikan izin untuk kamera dan penyimpanan untuk menjalakan aplikasi.</string>
+    <string name="success_create_story_alert">Berhasil membuat cerita!</string>
+    <string name="error_create_story_alert">Pastikan caption dan foto telah ditambahkan.</string>
+    <string name="create_your_story">Buat ceritamu</string>
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="maps">Peta</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="location_not_found_alert">Lokasi tidak ditemukan. Coba Lagi.</string>
+    <string name="title_activity_map">Pelacak Cerita</string>
+    <string name="day_mode">Mode Siang</string>
+    <string name="night_mode">Mode Malam</string>
+    <string name="loading_map">Memuat Map</string>
+    <string name="share_my_location">Bagikan Lokasi Saya</string>
+</resources>

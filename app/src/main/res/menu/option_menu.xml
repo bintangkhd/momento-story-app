@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/maps"
+        android:icon="@drawable/ic_baseline_map_24"
+        android:title="@string/maps"
+        app:showAsAction="collapseActionView|always" />
+
+    <item
+        android:id="@+id/language"
+        android:icon="@drawable/ic_baseline_language_24"
+        android:title="@string/language"
+        app:showAsAction="collapseActionView|always" />
+
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="@string/settings"
+        app:showAsAction="collapseActionView|always" />
+
+
+
+</menu>
